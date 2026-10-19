@@ -1,0 +1,8 @@
+**/[L|l]ibrary/
+**/[T]emp/
+**/[O]bj/
+**/[B]uild/
+**/[B]uilds/
+**/[L]ogs/
+**/[U]serSettings/
+**/.vs/
